@@ -7,6 +7,8 @@ Pose estimation can be used in a lot applications;
 ![Screenshot](/results/out.gif)
 ### Soccer Player
 ![Screenshot](/results/gifSoccerPlayer.gif)
+### Basketball Player
+![Screenshot](/results/gifBasketballPlayer.gif)
 ### Exercices samples
 ![Screenshot](/results/pose_tracking_example.gif)
 
