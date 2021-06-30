@@ -5,6 +5,8 @@ Using a detector, the pipeline first locates the person/pose region-of-interest 
 Pose estimation can be used in a lot applications;
 ### Boxing Training 
 ![Screenshot](/results/out.gif)
+### Soccer Player
+![Screenshot](/results/gifSoccerPlayer.gif)
 ### Exercices samples
 ![Screenshot](/results/pose_tracking_example.gif)
 
